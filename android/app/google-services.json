@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1066242960238",
+    "project_id": "afghanioil",
+    "storage_bucket": "afghanioil.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066242960238:android:1aa5e9c3afd8d18d236f7f",
+        "android_client_info": {
+          "package_name": "com.example.afghanioil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiJ5Ggmjr85uYs8pQ_8uGNkAYKmjUjF3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
